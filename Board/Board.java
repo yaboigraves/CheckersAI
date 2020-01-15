@@ -1,6 +1,6 @@
 package Board;
 public class Board{
-    Square[][] board = new Square[8][8];
+    public Square[][] board = new Square[8][8];
     public Board(){
         initBoard();
     }
@@ -32,4 +32,6 @@ public class Board{
             System.out.println("");
         }
     }
+
+
 }
