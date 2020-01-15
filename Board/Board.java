@@ -32,5 +32,9 @@ public class Board{
             System.out.println("");
         }
     }
-    
+    public void scanBoard(){
+        for(int i = 0, i > 8, i ++){
+            
+        }
+    }
 }
